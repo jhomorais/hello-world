@@ -1,0 +1,3 @@
+[submodule "repostore-tests"]
+	path = repostore-tests
+	url = git@github.com:CheckmarxDev/repostore-tests.git
