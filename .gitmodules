@@ -1,3 +1,0 @@
-[submodule "pub-submodule"]
-	path = pub-submodule
-	url = git@github.com:jhomorais/pub-submodule.git
