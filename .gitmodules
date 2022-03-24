@@ -1,3 +1,0 @@
-[submodule "sample-private-node"]
-	path = sample-private-node
-	url = git@gitlab.com:jhmorais/sample-private-node.git
