@@ -1,9 +1,0 @@
-[submodule "repostore-tests"]
-	path = repostore-tests
-	url = git@github.com:CheckmarxDev/repostore-tests.git
-[submodule "pub-submodule"]
-	path = pub-submodule
-	url = https://github.com/jhomorais/pub-submodule.git
-[submodule "csv-parser"]
-	path = csv-parser
-	url = https://github.com/vincentlaucsb/csv-parser.git
